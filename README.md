@@ -30,3 +30,6 @@ pip install -r requirements.txt
 python fraud_detection.py
 
 streamlit run dashboard.py
+
+## ⚙️ Configurations
+Edit config.json to change refresh interval or model path.
