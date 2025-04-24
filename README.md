@@ -27,10 +27,6 @@ Author : [SyedFurqanAli](https://github.com/SyedFurqanAli540702)
 ```bash
 pip install -r requirements.txt
 
-2. Train the model:
-```bash
 python fraud_detection.py
 
-3. Start the dashboard:
-```bash
 streamlit run dashboard.py
