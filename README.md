@@ -4,6 +4,8 @@
 ## 🔍 Overview
 This project provides a scalable and customizable machine learning solution to detect financial fraud in real time using historical data, behavioral analysis, and an interactive dashboard.
 
+Author : [SyedFurqanAli](https://github.com/SyedFurqanAli540702)
+
 ## 💡 Key Features
 - Machine Learning Integration (Random Forest)
 - Real-Time Transaction Monitoring
@@ -24,3 +26,9 @@ This project provides a scalable and customizable machine learning solution to d
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
+
+Train the model:
+python fraud_detection.py
+
+Start the dashboard:
+streamlit run dashboard.py
