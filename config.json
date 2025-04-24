@@ -1,0 +1,5 @@
+{
+    "model_path": "fraud_model.pkl",
+    "dashboard_refresh_interval": 5,
+    "features_used": ["amount", "user_age", "transaction_hour", "is_international", "num_prev_transactions"]
+}
